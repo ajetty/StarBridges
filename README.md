@@ -58,13 +58,31 @@ This structure is set up with one main parent UStruct that holds an array of chi
 
 [PawnIsland.cpp](https://github.com/ajetty/StarBridges/blob/main/Source/StarBridges/Island/PawnIsland.cpp)
 
+<a href="https://ajetty.github.io/StarBridges_ReadMePics/Island.gif">
+<img src="https://ajetty.github.io/StarBridges_ReadMePics/Island.gif" alt="Particle Beam Gif" />
+</a><br />
+
 ### Particle Beam Bridges
 
 [GridLineSystem.h](https://github.com/ajetty/StarBridges/blob/main/Source/StarBridges/Puzzle/GridLineSystem.h)
 
 [GridLineSystem.cpp](https://github.com/ajetty/StarBridges/blob/main/Source/StarBridges/Puzzle/GridLineSystem.cpp)
 
+<a href="https://ajetty.github.io/StarBridges_ReadMePics/Bridges.gif">
+<img src="https://ajetty.github.io/StarBridges_ReadMePics/Bridges.gif" alt="Particle Beam Gif" />
+</a><br />
+
 ## Menu UI
+
+### Main Menu
+<a href="https://ajetty.github.io/StarBridges_ReadMePics/MenuUI.gif">
+<img src="https://ajetty.github.io/StarBridges_ReadMePics/MenuUI.gif" alt="Particle Beam Gif" />
+</a><br />
+
+### End Screen
+<a href="https://ajetty.github.io/StarBridges_ReadMePics/EndUI.gif">
+<img src="https://ajetty.github.io/StarBridges_ReadMePics/EndUI.gif" alt="Particle Beam Gif" />
+</a><br />
 
 ## Game Mode
 
